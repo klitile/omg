@@ -76,6 +76,8 @@ following format:
 
 The scatter plot displays differentially expressed genes. The X-axis is Control, and Y-axis is Treatment. Replace 'Control'  and  'KnockOut'  with appropriated column names if provided in the uploaded file. The up-regulated genes are shown above the slash, and down-regulated genes are shown below the slash.
 
+.. image:: https://raw.githubusercontent.com/klitile/omg/master/oh_my_gene/source/omg.png 
+
 3. Non-functional Requirements
 -------------------------------
 3.1. Response Time
