@@ -2,6 +2,10 @@
 
 :Group Member: 王雪洁(201732120106) 249795581@qq.com
 
+Group Member:
+--------------
+ 王雪洁(201732120106) 249795581@qq.com
+ 
 1. Introduction
 ------------------
 This document is a specification for the omg project, omg for my genes, a web application for biologists to upload gene expression files and quickly show gene expression differences.
