@@ -1,7 +1,6 @@
-:Group Member:
---------------
- 王雪洁(201732120106) 249795581@qq.com
+:title: oh my genes
 
+:Group Member: 王雪洁(201732120106) 249795581@qq.com
 
 1. Introduction
 ------------------
