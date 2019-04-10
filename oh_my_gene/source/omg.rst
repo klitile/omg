@@ -19,9 +19,9 @@ Group Information
 
 Group Member:
 --------------
- 王雪洁(201732120106) 249795581@qq.com
+王雪洁(201732120106) 249795581@qq.com
  
- Indices and tables
+Indices and tables
 ==================
 
 * :ref:`genindex`
