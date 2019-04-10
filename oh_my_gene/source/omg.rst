@@ -1,10 +1,19 @@
-:title: oh my genes
+Software Requirements Specification for OMG Version 0.8
+=======================================================
 
-:Group Member: 王雪洁(201732120106) 249795581@qq.com
+Group Information
+=================
 
 Group Member:
 --------------
  王雪洁(201732120106) 249795581@qq.com
+ 
+ Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
  
 1. Introduction
 ------------------
